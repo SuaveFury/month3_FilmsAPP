@@ -11,7 +11,7 @@ import com.example.hw38.databinding.FragmentSecondBinding
 class SecondFragment : Fragment() {
 
     private lateinit var binding: FragmentSecondBinding
-    private val filmList = arrayListOf<Film>()
+
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
